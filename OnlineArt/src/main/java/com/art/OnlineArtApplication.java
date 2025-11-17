@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class OnlineArtApplication extends SpringBootServletInitializer{
+public class OnlineArtApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineArtApplication.class, args);
